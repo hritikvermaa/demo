@@ -1,2 +1,3 @@
-##demo
-hello world
+# demo
+# development environment
+make sure you have javascript
