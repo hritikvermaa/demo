@@ -1,5 +1,3 @@
-# Demo
-
-## Development Environment 
-
- make sure you have javascript
+# demo
+# development environment
+make sure you have javascript
